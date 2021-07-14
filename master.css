@@ -1,0 +1,39 @@
+html{
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    background-image: url("NF/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    /*display: flex;
+    flex-direction: column;*/
+    min-height: 100vh;
+  }
+a{
+    color: rgb(247, 247, 247);
+    text-decoration: none;
+}
+  
+.container{
+    margin-top: 7%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+     
+}
+.bg-dark{
+    margin: 37px 0 0 0;
+}
+.social-list {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
