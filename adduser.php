@@ -9,31 +9,14 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
    
    
-   
+    <link rel="stylesheet" href="add_css.css">
     <!-- Add icon library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!-- favicon -->
     <link rel="icon" type="image/png" href="NF/android-icon-36x36.png"/>
 
-    <style>
-        body{
-            margin: 0px;
-            background-color: #fde4dbbf;
-            min-height: 100vh;
-        
-        a {
-            color: rgb(247, 247, 247);
-            text-decoration: none;
-         }
-         .sticky-footer{
-          position: sticky;
-          top: 100%;
-          color: white;
-          background-color: #0a183d;
-          text-align: center;
-
-        }
+    
     </style>
 
     <title>TSF GRIP</title>

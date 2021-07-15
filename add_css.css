@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    background-color: #fde4dbbf;
+    min-height: 100vh;
+
+a {
+    color: rgb(247, 247, 247);
+    text-decoration: none;
+ }
+ .sticky-footer{
+  position: sticky;
+  top: 100%;
+  color: white;
+  background-color: #0a183d;
+  text-align: center;
+
+}
