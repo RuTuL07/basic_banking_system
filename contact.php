@@ -36,10 +36,13 @@
         }
         .fa-github {
             
-            color: black;
+            color: white;
         }
         .fa:hover {
             color: red;
+        }
+        .fa-github#git{
+          color: black;
         }
         .sticky-footer{
         position: sticky;
@@ -81,16 +84,22 @@
             </div>
         </nav>
   </header>
-    <div class="container-md">
-        <div class="card text-center">
-            <div class="card-header">
-                <h2>Contact Us</h2>
-            </div>
-            <div class="card-body">
-                <p class="card-text">XYZ</p>
-                
-            </div>
-          </div>
+  <div class="container-md">
+    <div class="card text-center">
+        <div class="card-header">
+            Contact Us
+        </div>
+        <div class="card-body">
+            <h5 class="card-title"><a href="https://github.com/RuTuL07" class="fa fa-github" id="git"></a>&nbsp&nbsp&nbsp
+                <a href="https://www.linkedin.com/in/rutul-patel-7b36301b4/" class="fa fa-linkedin"></a>&nbsp&nbsp&nbsp
+                <a href="#" class="fa fa-twitter"></a>&nbsp&nbsp&nbsp</h5>
+            <p class="card-text"></p>
+            
+        </div>
+        <div class="card-footer text-muted">
+            TSF GRIP BASIC BANKING SYSTEM 
+        </div>
+    </div>
     </div>
     <footer class="sticky-footer">
             <p>&copy; 2021–2025 TSF co-oprative bank ltd , Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>

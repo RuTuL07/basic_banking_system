@@ -35,7 +35,7 @@
         }
         .fa-github {
             
-            color: black;
+            color: white;
         }
         .fa:hover {
             color: red;

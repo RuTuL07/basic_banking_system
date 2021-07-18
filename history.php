@@ -36,6 +36,9 @@
         .text-center{
             margin-top: 3%;
         }
+        a{
+          text-decoration: none;
+        }
     
       .sticky-footer{
         position: sticky;
