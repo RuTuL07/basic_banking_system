@@ -53,6 +53,9 @@
                   <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact Us</a>
                   </li>&nbsp;&nbsp;&nbsp;
+                  <li class="nav-item">
+                    <a class="nav-link" href="contact.php">Create Account</a>
+                  </li>&nbsp;&nbsp;&nbsp;
                 </ul>
               </div>
             
